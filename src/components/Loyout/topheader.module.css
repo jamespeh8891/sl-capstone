@@ -1,0 +1,23 @@
+.topheader {
+    background-color: #343135; 
+    height: 40px;
+    width: 1605px;
+    padding-right: 100px;
+    margin-left:150px;
+    margin-top: -1002px;
+    font-size: 30px;
+    font-family: 'New Rocker', cursive;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    text-align-last: right;
+    /* position: fixed; */
+    
+}
+
+.slerror {
+    color: #D03625;
+    word-spacing: 10px;
+    width: 1580px;
+    
+}

@@ -1,0 +1,28 @@
+
+
+.back {
+    height: 450px;
+    width: 450px;
+    background-color: #5040C9;
+    margin-left: 60px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.9);
+}
+.backTwo {
+    height: 450px;
+    width: 450px;
+    background-color: #5040C9;
+    margin-left: 600px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.9);
+}
+.backThree {
+    height: 450px;
+    width: 450px;
+    background-color: #5040C9;
+    margin-left: 590px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.9);
+}
+
+.login {
+    margin-top: -300px;
+    margin-left: 20px;
+}

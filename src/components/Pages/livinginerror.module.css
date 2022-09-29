@@ -1,0 +1,82 @@
+.living {
+    height: 83px;
+    width: 100px;
+    background-color: #5040C9;;
+    padding-left: 500px;
+    margin-left: 1108px;
+    margin-top: -905px;
+    padding-bottom: 875px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.background {
+    height: 958px;
+    width: 1110px;
+    background-color: #4A5559;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+h2 {
+    color: white;
+    margin-left: -480px;
+}
+
+.albuminfo {
+    color: white;
+    margin-left: -480px;
+    margin-top: 10px;
+}
+
+.songnames {
+    margin-left: -25px;
+    font-size: small;
+    
+}
+
+.heartBtn {
+    background-color: transparent;
+    border: 1px solid;
+    /* margin-left: auto;
+    margin-right: auto; */
+    padding-top: -30px;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    width: 24px;
+    margin-top: 13px;
+    border-radius: 20px;
+   
+}
+
+.livingImg img{
+    height: 850px;
+    width: 850px;
+    display: flexbox;
+    margin-left: 125px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.9);
+}
+
+.songname {
+    margin-top: 0px;
+}
+
+li {
+    
+    display: flex;
+  
+}
+ h3 {
+    border: 1px solid blue;
+ }
+
+ .songlist {
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+ }
+ 

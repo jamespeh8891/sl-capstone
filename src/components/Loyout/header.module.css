@@ -1,0 +1,53 @@
+body {
+    background-color: #919BA1;
+}
+
+.header {
+    height: 1000px;
+    width: 150px;
+    background-color: #343135;
+    color: #D03625;
+    font-size: 85px;
+    text-align: center;
+    position: relative;
+    font-family: 'New Rocker', cursive;
+    top: 0;
+}
+
+.header li {
+    font-size: 13px;
+    color: #FFFFFF;
+    font-family: 'New Rocker', cursive;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.header ul {
+  height: 100%;
+  list-style: none;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.header a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.header {
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+hr {
+    margin-top: 15px;
+    border-color: black;
+}
+
+
+
+

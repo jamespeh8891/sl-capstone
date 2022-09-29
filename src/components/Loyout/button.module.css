@@ -1,0 +1,78 @@
+/* function PostForm() {
+    const url=''
+    const [data, setData] = useState({
+        favorite: ''
+    })
+
+    function submit(e){
+        e.preventDefault();
+        Axios.post(url,{
+            favorite: data.favorite
+        })
+        .then(res=>{
+            console.log(res.data)
+        })
+    }
+
+    function handle(e){
+        const newdata={...data}
+        newdata[e.target.id] = e.target.value
+        setData(newdata)
+        console.log(newdata)
+    }
+    return (
+        <div>
+            <form onSubmit={(e)=> submit(e)}>
+                <input onChange={(e)=>handle(e)} id='favorite' value={data.favorite} placeholder='favorite' type='text'></input>
+                <button>Submit</button>
+            </form>
+        </div>
+    )
+}
+
+export default PostForm; */
+
+
+
+
+
+
+
+
+/* state={
+    email:'',
+    pass:''
+}
+
+handleChange = (e) =>{
+    const {name,value} = e.target
+    this.setState({[name]:value})
+}
+
+handleSubmit = (e) =>{
+    e.preventDefault()
+    this.props.isLogin(true)
+}
+render(){
+    return(
+        <div className='div-login'>
+            <div className='div-login-logo'>
+             <div className={classes.back}> 
+             <div className={classes.backTwo}> 
+             <div className={classes.backThree}> 
+            </div>
+            <div className={classes.login}>
+                <h4>Already have an acount? Log in here!</h4>
+                <form onSubmit = {this.handleSubmit}>
+                    <input type='email' name='email' placeholder='email...' required onChange={this.handleChange}/>
+                    <input type='password' name='pass' placeholder='password...' required onChange={this.handleChange}/>
+                    <button onSubmit={this.handleSubmit}>Log In</button>
+                </form>
+            </div>
+            </div>
+            </div>  
+            </div>    
+        </div>
+    )
+}
+} */
